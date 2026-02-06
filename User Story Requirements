@@ -2,13 +2,13 @@ Here are 10 User Story Requirements for the WorkflowManager
 __________________________________________________________
 Identifier    |  User Story
 __________________________________________________________
-REQ-1.   ALL  |  As a user I put an assignment on a calendar.
-REQ-2.   PM   |  As a user, I can create a project.
-REQ-3.   PM   |  As a project leader, I can break a project down into smaller steps.
-REQ-4.   PM   |  As a project leader, I can assign project members to different project steps.
-REQ-5.   OH   |  As a project leader, I can assign due dates for project steps.
-REQ-6.   OH   |  As a user, I can view the assigned steps and due dates.
-REQ-7.   OH   |  As a project leader, I can lock project steps from project members.
-REQ-8.   SC   |  As a user, I can view the status of my assigned projects.
-REQ-9.   SC   |  As a user, I can view dependencies within the project pipeline.
-REQ-10.  SC   |  As a user, I can select my profile so the system can determine my roles and permissions.
+   ALL  |  As a user I put an assignment on a calendar.
+   PM   |  As a user, I can create a project.
+   PM   |  As a project leader, I can break a project down into smaller steps.
+   PM   |  As a project leader, I can assign project members to different project steps.
+   OH   |  As a project leader, I can assign due dates for project steps.
+   OH   |  As a user, I can view the assigned steps and due dates.
+   OH   |  As a project leader, I can lock project steps from project members.
+   SC   |  As a user, I can view the status of my assigned projects.
+   SC   |  As a user, I can view dependencies within the project pipeline.
+   SC   |  As a user, I can select my profile so the system can determine my roles and permissions.
