@@ -2,7 +2,7 @@ Here are 10 User Story Requirements for the WorkflowManager
 __________________________________________________________
 Identifier    |  User Story
 __________________________________________________________
-REQ-1.        |  As a user I put an assignment on a calender.
+REQ-1.        |  As a user I put an assignment on a calendar.
 REQ-2.        |  As a user, I can create a project.
 REQ-3.        |  As a project leader, I can break a project down into smaller steps.
 REQ-4.        |  As a project leader, I can assign project members to different project steps.
