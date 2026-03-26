@@ -47,8 +47,8 @@ class CreateAccountUI(QDialog):
         - UI elements are initialized and displayed
         - Event handlers are connected to their respective UI controls
     """
-    def __init__(self):
-        super().__init__()
+    def __init__(self, parent=None):
+        super().__init__(parent)
 
         self.setWindowTitle("Create Account")
         self.setFixedSize(350, 220)
