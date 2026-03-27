@@ -1,4 +1,5 @@
 from PyQt6.QtWidgets import (QWidget, QLabel, QPushButton, QVBoxLayout, QHBoxLayout, QTableWidget, QHeaderView)
+from ui.project_create_window import ProjectCreationWindow
 
 class DashboardWindow(QWidget):
     def __init__(self):
@@ -7,6 +8,8 @@ class DashboardWindow(QWidget):
 
         self.resize(1000, 700)
         self.setMinimumSize(900, 600)
+
+        self.project_window = None
 
         # Layouts
         main_layout = QVBoxLayout()
@@ -28,6 +31,9 @@ class DashboardWindow(QWidget):
         # Buttons
         self.create_project_button = QPushButton('Create Project')
         self.view_project_list_button = QPushButton('View Project List')
+
+        self.create_project_button.clicked.connect(self.open_create_project_window)
+
         button_layout.addWidget(self.create_project_button)
         button_layout.addWidget(self.view_project_list_button)
         button_layout.addStretch()
@@ -51,3 +57,9 @@ class DashboardWindow(QWidget):
         main_layout.addWidget(self.calendar_table)
 
         self.setLayout(main_layout)
+
+    def open_create_project_window(self):
+        self.project_window = ProjectCreationWindow()
+        self.project_window.show()
+        self.project_window.raise_()
+        self.project_window.activateWindow()
