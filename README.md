@@ -14,7 +14,7 @@ do not have an account, click the **"Register"** button to create one.
 <img src="documents/Images/Login_Window_Register.png" width="500">
 
 The account creation window opens. The Email field accepts
-either a username or an email address.Password requirements may vary
+either a username or an email address. Password requirements may vary
 depending on system configuration. Type in both the desired username/email
 and password, confirm your password in the **"Confirm Password"** field,
 and click **"Create"**.
