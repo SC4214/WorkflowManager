@@ -11,18 +11,14 @@ assignment and visibility of phases to assigned workers.
 When you first open the application, you will see the login screen. If you
 do not have an account, click the **"Register"** button to create one.
 
-The account creation window will open. The Email field accepts
+The account creation window opens. The Email field accepts
 either a username or an email address, depending on system configuration.
 Password requirements may vary depending on system configuration. Type in both
 the desired username/email and password, confirm your password in the 
 **"Confirm Password"** field, and click **"Create"**.
+**Result**: A success confirmation appears. Click **OK** and proceed to Login.
 
 *Note: email/usernames are unique within the system.*
-
-### Successful Account Creation
-
-If account creation is successful, you will be presented with a Success
-confirmation. Click **"OK"** and proceed to Login.
 
 ### Common Errors
 
@@ -40,7 +36,7 @@ errors and how to resolve them:
   - Cause: Password and Confirm Password fields differ.
   - Solution: Re-enter both fields and click **Create**.
 
-## Logging in (Pedro)
+## Login (Pedro)
 
 ## Navigating the dashboard (Owen)
 
