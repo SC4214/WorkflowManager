@@ -57,4 +57,41 @@ errors and how to resolve them:
 
 ## Creating a phase (Steven)
 
+After creating a project and viewing its details, you can add phases
+to organize work and track progress.
+
+From the **Project Details** window, click the **"Add Phase"** button
+to open the phase creation window.
+
+In the phase creation window, enter the following information:
+- Phase Title
+- Due Date (formatted as YYYY-MM-DD)
+- Steps (description or list of tasks associated with the phase)
+
+After entering the required information, click **"Submit"**.
+
+**Result:** A confirmation message will appear indicating that the phase
+was created successfully. Click **"OK"** to continue.
+
+## Viewing the Phase
+
+Once created, the phase will appear on the calendar under its assigned
+due date.
+
+Phases are color-coded based on their proximity to the current date:
+- Green  -> Over a month away
+- Yellow -> Between a week and a month
+- Red    -> Less than a week or past due
+
+## Viewing Phase Details
+
+Click on a phase within the calendar to view its details, including:
+- Project Title
+- Phase Title
+- Due Date
+- Steps / Description
+
+## Common Errors
+
+
 ## Assigning users to phases (Owen)
