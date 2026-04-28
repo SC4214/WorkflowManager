@@ -51,10 +51,10 @@ errors and how to resolve them:
 
 ## Login (Pedro)
 
-## Navigating the dashboard (Owen)
-
 ## Creating a project (Owen)
 
 ## Viewing/Modifying a project (Pedro)
 
 ## Creating a phase (Steven)
+
+## Assigning users to phases (Owen)
