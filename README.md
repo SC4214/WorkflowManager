@@ -113,5 +113,14 @@ Click on a phase within the calendar to view its details, including:
 
 ### Common Errors
 
+Phase creation may fail for multiple reasons. Here are some common
+errors and how to resolve them:
+-**Error: Phase title and due date are required.**
+  - Cause: Either Phase title or Due Date is empty.
+  - Solution: Fill in both required fields and click **"Submit"**
+- **Error: A phase with this title already exists for that project.**
+  - Cause: The selected project already has a phase with the same name.
+  - Solution: Verify the phase you are creating has not already been made.
+              Choose a new Phase title and click **"Submit"**
 
 ## Assigning Users to Phases (Owen)
