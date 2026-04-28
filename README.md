@@ -8,39 +8,38 @@ assignment and visibility of phases to assigned workers.
 
 ## Creating an account (Steven)
 
-When you first open the application, you will see the screen above, which
-is the login screen. The first thing you need to do is create an account
-if you do not have one. Click the **"Register"** button.
+When you first open the application, you will see the login screen. The first
+thing you need to do is create an account if you do not have one. Click the
+**"Register"** button.
 
-The window that opens is the account creation window. The email field can
-be either a username or email, whichever your company prefers. The password
-field currently does not contain any password restrictions, but will in
-future iterations. Type in both the desired username/email and password,
-confirm your password in the **"Confirm Password"** field, and click **"Create"**.
+### Successful Account Creation
+
+The window that opens is the account creation window. The Email field accepts
+either a username or an email address, depending on system configuration.
+Password requirements may vary depending on system configuration. Type in both
+the desired username/email and password, confirm your password in the 
+**"Confirm Password"** field, and click **"Create"**.
 
 *Note: email/usernames are unique within the system.*
 
 If account creation is successful, you will be presented with a Success
 confirmation. Click **"OK"** and proceed to Login.
 
+### Common Errors
+
 Account creation may fail for multiple reasons. Here are some common
 errors and how to resolve them:
-- **All fields are required**
-  - This means that a field is not filled out in the form.
-    - Ensure all fields are filled out and click "Create".
-- **An account with that email already exists**
-  - This means that the desired email/username already exists in the
-    database.
-    - If using a username:
-      - Type a different username into the email field and click **Create**.
-    - If using an email:
-      - Consult with your company to determine further course of action.
-- **Passwords do not match**
-  - This means that the password in the Confirm Password field does not
-    match the password in the Password field.
-    - For the best results:
-      - Delete the values in both Password and Confirm Password, type
-        both in again, and click **Create**.
+- **Error: All fields are required**
+  - Cause: One or more fields were left blank.
+  - Solution: Complete all fields and click "Create".
+- **Error: An account with that email already exists**
+  - Cause: The entered username/email is already in use.
+  - Solution:
+    - If using a username: choose a different username.
+    - If using an email: contact your organization.
+- **Error: Passwords do not match**
+  - Cause: Password and Confirm Password fields differ.
+  - Solution: Re-enter both fields and click **Create**.
 
 ## Logging in (Pedro)
 
