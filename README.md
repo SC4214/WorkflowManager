@@ -51,17 +51,21 @@ errors and how to resolve them:
 
 ## Login (Pedro)
 
-## Creating a project (Owen)
+## Creating a Project (Owen)
 
-## Viewing/Modifying a project (Pedro)
+## Viewing/Modifying a Project (Pedro)
 
-## Creating a phase (Steven)
+## Creating a Phase (Steven)
 
 After creating a project and viewing its details, you can add phases
 to organize work and track progress.
 
 From the **Project Details** window, click the **"Add Phase"** button
 to open the phase creation window.
+
+<p align="center">
+  <img src="documents/Images/Project_Details_for_Phase.png" width="500">
+</p>
 
 In the phase creation window, enter the following information:
 - Phase Title
@@ -70,10 +74,18 @@ In the phase creation window, enter the following information:
 
 After entering the required information, click **"Submit"**.
 
+<p align="center">
+  <img src="documents/Images/Phase_Creation_Window.png" width="500">
+</p>
+
 **Result:** A confirmation message will appear indicating that the phase
 was created successfully. Click **"OK"** to continue.
 
-### Viewing the Phase
+<p align="center">
+  <img src="documents/Images/Phase_Success.png" width="500">
+</p>
+
+### Viewing a Phase
 
 Once created, the phase will appear on the calendar under its assigned
 due date.
@@ -83,6 +95,10 @@ Phases are color-coded based on their proximity to the current date:
 - Yellow -> Between a week and a month
 - Red    -> Less than a week or past due
 
+<p align="center">
+  <img src="documents/Images/New_Phase_On_Calendar.png" width="500">
+</p>
+
 ### Viewing Phase Details
 
 Click on a phase within the calendar to view its details, including:
@@ -91,7 +107,11 @@ Click on a phase within the calendar to view its details, including:
 - Due Date
 - Steps / Description
 
+<p align="center">
+  <img src="documents/Images/Phase_Details_Window.png" width="500">
+</p>
+
 ### Common Errors
 
 
-## Assigning users to phases (Owen)
+## Assigning Users to Phases (Owen)
