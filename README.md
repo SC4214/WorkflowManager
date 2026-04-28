@@ -21,6 +21,8 @@ depending on system configuration. Type in both the desired username/email
 and password, confirm your password in the **"Confirm Password"** field,
 and click **"Create"**.
 
+*Note: email/usernames are unique within the system.*
+
 <p align="center">
   <img src="documents/Images/Acc_Creation_Window.png" width="500">
 </p>
@@ -30,8 +32,6 @@ and click **"Create"**.
 <p align="center">
   <img src="documents/Images/Create_Success.png" width="400">
 </p>
-
-*Note: email/usernames are unique within the system.*
 
 ### Common Errors
 
