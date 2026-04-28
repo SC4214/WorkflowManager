@@ -58,7 +58,7 @@ errors and how to resolve them:
 ## Creating a Phase (Steven)
 
 After creating a project and viewing its details, you can add phases
-to organize work and track progress.
+to organize and track project work.
 
 From the **Project Details** window, click the **"Add Phase"** button
 to open the phase creation window.
@@ -69,7 +69,7 @@ to open the phase creation window.
 
 In the phase creation window, enter the following information:
 - Phase Title
-- Due Date (formatted as YYYY-MM-DD)
+- Due Date (formatted as `YYYY-MM-DD`)
 - Steps (description or list of tasks associated with the phase)
 
 After entering the required information, click **"Submit"**.
@@ -91,9 +91,9 @@ Once created, the phase will appear on the calendar under its assigned
 due date.
 
 Phases are color-coded based on their proximity to the current date:
-- Green  -> Over a month away
-- Yellow -> Between a week and a month
-- Red    -> Less than a week or past due
+- Green  → Over a month away
+- Yellow → Between a week and a month
+- Red    → Less than a week or past due
 
 <p align="center">
   <img src="documents/Images/New_Phase_On_Calendar.png" width="400">
@@ -115,7 +115,7 @@ Click on a phase within the calendar to view its details, including:
 
 Phase creation may fail for multiple reasons. Here are some common
 errors and how to resolve them:
--**Error: Phase title and due date are required.**
+- **Error: Phase title and due date are required.**
   - Cause: Either Phase title or Due Date is empty.
   - Solution: Fill in both required fields and click **"Submit"**
 - **Error: A phase with this title already exists for that project.**
