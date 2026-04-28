@@ -19,7 +19,11 @@ Password requirements may vary depending on system configuration. Type in both
 the desired username/email and password, confirm your password in the 
 **"Confirm Password"** field, and click **"Create"**.
 
+![Account Creation Screen](documents/Images/Acc_Creation_Window.png)
+
 **Result:** A success confirmation appears. Click **"OK"** and proceed to Login.
+
+![Creation Confirmation](documents/Images/Create_Success.png)
 
 *Note: email/usernames are unique within the system.*
 
