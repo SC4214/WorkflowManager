@@ -16,7 +16,8 @@ either a username or an email address, depending on system configuration.
 Password requirements may vary depending on system configuration. Type in both
 the desired username/email and password, confirm your password in the 
 **"Confirm Password"** field, and click **"Create"**.
-**Result**: A success confirmation appears. Click **OK** and proceed to Login.
+
+**Result:** A success confirmation appears. Click **"OK"** and proceed to Login.
 
 *Note: email/usernames are unique within the system.*
 
