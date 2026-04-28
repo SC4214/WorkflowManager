@@ -8,22 +8,22 @@ assignment and visibility of phases to assigned workers.
 
 ## Creating an account (Steven)
 
-When you first open the application, you will see the login screen. If you
+When the application launches, the login screen is displayed. If you
 do not have an account, click the **"Register"** button to create one.
 
-![Login Screen](documents/Images/Login_Window_Register.png)
+<img src="documents/Images/Login_Window_Register.png" width="500">
 
 The account creation window opens. The Email field accepts
-either a username or an email address, depending on system configuration.
-Password requirements may vary depending on system configuration. Type in both
-the desired username/email and password, confirm your password in the 
-**"Confirm Password"** field, and click **"Create"**.
+either a username or an email address.Password requirements may vary
+depending on system configuration. Type in both the desired username/email
+and password, confirm your password in the **"Confirm Password"** field,
+and click **"Create"**.
 
-![Account Creation Screen](documents/Images/Acc_Creation_Window.png)
+<img src="documents/Images/Acc_Creation_Window.png" width="500">
 
 **Result:** A success confirmation appears. Click **"OK"** and proceed to Login.
 
-![Creation Confirmation](documents/Images/Create_Success.png)
+<img src="documents/Images/Create_Success.png" width="400">
 
 *Note: email/usernames are unique within the system.*
 
