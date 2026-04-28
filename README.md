@@ -2,14 +2,14 @@
 
 ## Description
 
-## Creating an account
+## Creating an account (Steven)
 
-## Logging in
+## Logging in (Pedro)
 
-## Navigating the dashboard
+## Navigating the dashboard (Owen)
 
-## Creating a project
+## Creating a project (Owen)
 
-## Viewing project details
+## Viewing/Modifying a project (Pedro)
 
-## Creating a phase
+## Creating a phase (Steven)
