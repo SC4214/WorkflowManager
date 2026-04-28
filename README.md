@@ -73,7 +73,7 @@ After entering the required information, click **"Submit"**.
 **Result:** A confirmation message will appear indicating that the phase
 was created successfully. Click **"OK"** to continue.
 
-## Viewing the Phase
+### Viewing the Phase
 
 Once created, the phase will appear on the calendar under its assigned
 due date.
@@ -83,7 +83,7 @@ Phases are color-coded based on their proximity to the current date:
 - Yellow -> Between a week and a month
 - Red    -> Less than a week or past due
 
-## Viewing Phase Details
+### Viewing Phase Details
 
 Click on a phase within the calendar to view its details, including:
 - Project Title
@@ -91,7 +91,7 @@ Click on a phase within the calendar to view its details, including:
 - Due Date
 - Steps / Description
 
-## Common Errors
+### Common Errors
 
 
 ## Assigning users to phases (Owen)
