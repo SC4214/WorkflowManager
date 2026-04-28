@@ -11,6 +11,8 @@ assignment and visibility of phases to assigned workers.
 When you first open the application, you will see the login screen. If you
 do not have an account, click the **"Register"** button to create one.
 
+![Login Screen](documents/Images/Login_Window_Register.png)
+
 The account creation window opens. The Email field accepts
 either a username or an email address, depending on system configuration.
 Password requirements may vary depending on system configuration. Type in both
