@@ -82,7 +82,7 @@ After entering the required information, click **"Submit"**.
 was created successfully. Click **"OK"** to continue.
 
 <p align="center">
-  <img src="documents/Images/Phase_Success.png" width="500">
+  <img src="documents/Images/Phase_Success.png" width="400">
 </p>
 
 ### Viewing a Phase
@@ -96,7 +96,7 @@ Phases are color-coded based on their proximity to the current date:
 - Red    -> Less than a week or past due
 
 <p align="center">
-  <img src="documents/Images/New_Phase_On_Calendar.png" width="500">
+  <img src="documents/Images/New_Phase_On_Calendar.png" width="400">
 </p>
 
 ### Viewing Phase Details
