@@ -111,9 +111,10 @@ errors and how to resolve them:
   - Cause: One or more fields were left blank.
   - Solution: Complete all fields and click "Submit".
 - **Error: An project with that title already exists**
-  - Cause: The entered already exists for another project within the system.
+  - Cause: The entered title already exists for another project within the system.
   - Solution:
-    - Choose a different name for the project.
+    - Choose a different title for the project.
+    - Click "Submit".
 
 ## Modifying a Project (Pedro)
 
@@ -217,13 +218,13 @@ errors and how to resolve them:
 
 Once a phase has been created, you can assign other users to that phase.
 
-First, locate the project of the phase you wish to assign a user to.
+First, locate the project of the phase you wish to assign a user to on your **Calendar**.
 
 <p align="center">
   <img src="documents/Images/PhaseAssignLocate.png" width="500">
 </p>
 
-Open the **Project Details** window, and select the "Assign Workers" button. 
+Open the **Project Details** window, and select the **"Assign Workers"** button. 
 
 <p align="center">
   <img src="documents/Images/PhaseAssignWorkerButton.png" width="500">
@@ -252,7 +253,7 @@ To assign one or more users to a phase, complete the following steps:
   <img src="documents/Images/PhaseAssignFilled.png" width="500">
 </p>
 
-Result: A success confirmation appears. Clicking "OK" will close the Assign Worker Window and return you to the Dashboard.
+Result: A success confirmation appears. Clicking "OK" will close the **Assign Worker** Window and return you to the **Dashboard**.
 
 <p align="center">
   <img src="documents/Images/PhaseAssignSuccess.png" width="500">
@@ -260,12 +261,18 @@ Result: A success confirmation appears. Clicking "OK" will close the Assign Work
 
 ### Common Errors
 
-Project Creation may fail for multiple reasons. Here are some common
+Phase Assignment may fail for multiple reasons. Here are some common
 errors and how to resolve them:
-- **Error: All fields are required**
-  - Cause: One or more fields were left blank.
-  - Solution: Complete all fields and click "Submit".
-- **Error: An project with that title already exists**
-  - Cause: The entered already exists for another project within the system.
+- **Error: Please enter a roll**
+  - Cause: The Role field has been left blank.
+  - Solution: Enter a role in the Role field and click "Submit".
+- **Please assign at least one worker**
+  - Cause: No user has been chosen to be assigned by moving them from the left to right column.
+  - Solution: Choose at least one user to assign to the phase, and move them
+    - Choose at least one user to assign to the phase, and move them from the left to right column using the arrow buttons.
+    - Click "Submit".
+- **One or more of the selected employees is already assigned to this phase**
+  - Cause: One of the users you are attempting to assign as already been asigned to this phase.
   - Solution:
-    - Choose a different name for the project.
+    - Remove the already assigned user from the right column.
+    - If you do not know which user is already assigned, assign users one at a time.
