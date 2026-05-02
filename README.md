@@ -51,6 +51,21 @@ errors and how to resolve them:
 
 ## Login (Pedro)
 
+
+When you launch the application, the first screen you will see is the login window.
+
+<p align="center">
+  <img src="documents/Images/login_window.png" width="400">
+</p>
+
+To log in, follow these steps:
+
+1.  **Email:** In the first field, enter the email address you registered with.
+2.  **Password:** In the second field, enter your password.
+3.  **"Login" Button:** Click the `Login` button.
+
+If your credentials are correct, the application will grant you access to the main Dashboard. If there is an error (e.g., incorrect password or email), you will receive a notification and can try again.
+
 ## Creating a Project (Owen)
 
 ## Viewing/Modifying a Project (Pedro)
