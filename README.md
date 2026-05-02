@@ -68,6 +68,48 @@ If your credentials are correct, the application will grant you access to the ma
 
 ## Creating a Project (Owen)
 
+To create a project, first click on the "Create Project" button located in the upper left hand corner of the Dashboard. 
+
+<p align="center">
+  <img src="documents/Images/Acc_Creation_Window.png" width="500">
+</p>
+
+This will bring you to the Create Project Window.
+
+<p align="center">
+  <img src="documents/Images/Acc_Creation_Window.png" width="500">
+</p>
+
+To create a new project, complete the following steps:
+1.) Type the Name of your project into the Title field.
+2.) Type the Due Date for your project into the Date field using the YYYY-MM-DD date format.
+3.) Type the Description you want for your project into the descrioption box.
+4.) Click Submit
+
+*Note: Project Titles are unique within the system.*
+
+<p align="center">
+  <img src="documents/Images/Acc_Creation_Window.png" width="500">
+</p>
+
+Result: A success confirmation appears. Clicking "OK" will close the Create Project Window and return you to the Dashboard.
+
+<p align="center">
+  <img src="documents/Images/Acc_Creation_Window.png" width="500">
+</p>
+
+### Common Errors
+
+Project Creation may fail for multiple reasons. Here are some common
+errors and how to resolve them:
+- **Error: All fields are required**
+  - Cause: One or more fields were left blank.
+  - Solution: Complete all fields and click "Submit".
+- **Error: An project with that title already exists**
+  - Cause: The entered already exists for another project within the system.
+  - Solution:
+    - Choose a different name for the project.
+
 ## Modifying a Project (Pedro)
 
 You can easily update a project's due date or description by following these three simple steps.
