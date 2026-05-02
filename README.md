@@ -220,13 +220,19 @@ Once a phase has been created, you can assign other users to that phase.
 First, locate the project of the phase you wish to assign a user to.
 
 <p align="center">
-  <img src="documents/Images/CreateProjectLocation.png" width="500">
+  <img src="documents/Images/PhaseAssignLocate.png" width="500">
 </p>
 
-Open the **Project Details** window, and select the "Assign Workers" button. This will being you to the **"Assign Workers"** Page.
+Open the **Project Details** window, and select the "Assign Workers" button. 
 
 <p align="center">
-  <img src="documents/Images/CreateProjectEmpty.png" width="500">
+  <img src="documents/Images/PhaseAssignWorkerButton.png" width="500">
+</p>
+
+This will being you to the **"Assign Workers"** Page.
+
+<p align="center">
+  <img src="documents/Images/PhaseAssignEmpty.png" width="500">
 </p>
 
 To assign one or more users to a phase, complete the following steps:
@@ -243,13 +249,13 @@ To assign one or more users to a phase, complete the following steps:
 *Note: Each user may only be assigned to a phase once.*
 
 <p align="center">
-  <img src="documents/Images/CreaateProjectFilled.png" width="500">
+  <img src="documents/Images/PhaseAssignFilled.png" width="500">
 </p>
 
 Result: A success confirmation appears. Clicking "OK" will close the Assign Worker Window and return you to the Dashboard.
 
 <p align="center">
-  <img src="documents/Images/CreateProjectSuccess.png" width="500">
+  <img src="documents/Images/PhaseAssignSuccess.png" width="500">
 </p>
 
 ### Common Errors
