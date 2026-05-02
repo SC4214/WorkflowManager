@@ -84,14 +84,17 @@ To create a new project, complete the following steps:
 
 
 1.) Type the Name of your project into the Title field.
+
 2.) Type the Due Date for your project into the Date field using the YYYY-MM-DD date format.
+
 3.) Type the Description you want for your project into the descrioption box.
+
 4.) Click Submit
 
 *Note: Project Titles are unique within the system.*
 
 <p align="center">
-  <img src="documents/Images/CreateProjectFilled.png" width="500">
+  <img src="documents/Images/CreaateProjectFilled.png" width="500">
 </p>
 
 Result: A success confirmation appears. Clicking "OK" will close the Create Project Window and return you to the Dashboard.
