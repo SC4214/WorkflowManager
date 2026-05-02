@@ -68,7 +68,35 @@ If your credentials are correct, the application will grant you access to the ma
 
 ## Creating a Project (Owen)
 
-## Viewing/Modifying a Project (Pedro)
+## Modifying a Project (Pedro)
+
+You can easily update a project's due date or description by following these three simple steps.
+
+### Step 1: Select the Project
+
+First, locate and click on the project you wish to modify. You can find your projects on the main **Dashboard** calendar or in the **Project List**. Clicking the project will open its **Project Details** window.
+
+<p align="center">
+  <img src="documents/Images/pic1.png" width="400">
+</p>
+
+### Step 2: Click the "Modify Project" Button
+
+In the **Project Details** window, you will find a `Modify Project` button. Click this button to open the project modification screen, where the project's current details will be pre-filled and ready for editing.
+
+<p align="center">
+  <img src="documents/Images/pic2 (2).png" width="400">
+</p>
+
+### Step 3: Modify and Save Changes
+
+You can now change the **Due Date** or update the **Description**. Once you are finished making your changes, click the `Save Changes` button to update the project.
+
+<p align="center">
+  <img src="documents/Images/pic3.png" width="400">
+</p>
+
+Your project is now updated. The new details will be reflected immediately on the main **Dashboard**.
 
 ## Creating a Phase (Steven)
 
