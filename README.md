@@ -250,7 +250,7 @@ To assign one or more users to a phase, complete the following steps:
 *Note: Each user may only be assigned to a phase once.*
 
 <p align="center">
-  <img src="documents/Images/PhaseAssignFilled.png" width="500">
+  <img src="documents/Images/PhaseassignFilled.png" width="500">
 </p>
 
 Result: A success confirmation appears. Clicking "OK" will close the **Assign Worker** Window and return you to the **Dashboard**.
