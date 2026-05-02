@@ -214,3 +214,52 @@ errors and how to resolve them:
               Choose a new Phase title and click **"Submit"**
 
 ## Assigning Users to Phases (Owen)
+
+Once a phase has been created, you can assign other users to that phase.
+
+First, locate the project of the phase you wish to assign a user to.
+
+<p align="center">
+  <img src="documents/Images/CreateProjectLocation.png" width="500">
+</p>
+
+Open the **Project Details** window, and select the "Assign Workers" button. This will being you to the **"Assign Workers"** Page.
+
+<p align="center">
+  <img src="documents/Images/CreateProjectEmpty.png" width="500">
+</p>
+
+To assign one or more users to a phase, complete the following steps:
+
+
+1.) Select all of the users you with to assign from the left hand column. Clicking the --> button will transfer them to the right column to be assigned. Selecting users in the right column and clicking the <-- button will return them to the left column, removing them from the list of users to assign.
+
+2.) Choose which phase you want to assign users to from the **"Select Phase"** dropdown box.
+
+3.) Type the Role you want your selected users to have for this phase into the **"Select Role"** field.
+
+4.) Click Submit
+
+*Note: Each user may only be assigned to a phase once.*
+
+<p align="center">
+  <img src="documents/Images/CreaateProjectFilled.png" width="500">
+</p>
+
+Result: A success confirmation appears. Clicking "OK" will close the Assign Worker Window and return you to the Dashboard.
+
+<p align="center">
+  <img src="documents/Images/CreateProjectSuccess.png" width="500">
+</p>
+
+### Common Errors
+
+Project Creation may fail for multiple reasons. Here are some common
+errors and how to resolve them:
+- **Error: All fields are required**
+  - Cause: One or more fields were left blank.
+  - Solution: Complete all fields and click "Submit".
+- **Error: An project with that title already exists**
+  - Cause: The entered already exists for another project within the system.
+  - Solution:
+    - Choose a different name for the project.
